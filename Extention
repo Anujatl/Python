@@ -1,3 +1,0 @@
-a=input("Enter the word")
-a=a.split(".")
-print("Extention of the word is-->",a[-1])
